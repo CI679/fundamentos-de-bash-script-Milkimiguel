@@ -66,10 +66,10 @@ Donde `argumento1` y `argumento2` pueden ser valores utilizados en las pruebas d
 
 ## Repositorio
 
-Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí](<URL_DEL_REPOSITORIO>).
+Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio >>[aquí](https://github.com/CI679/fundamentos-de-bash-script-Milkimiguel)<<
 
 ---
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+Miguel David Rodríguez González 343786
